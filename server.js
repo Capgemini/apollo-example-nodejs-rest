@@ -3,7 +3,7 @@ var restify = require('restify');
 var PORT = 8080;
 
 var app = {
-  version: '1.0.0',
+  version: '2.0.0',
   name: 'apollo-example-nodejs-rest'
 };
 
