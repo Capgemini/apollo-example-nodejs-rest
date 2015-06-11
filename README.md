@@ -1,4 +1,4 @@
-# Apollo Example NodeJS rest API service
+# Apollo example Nodejs REST API service
 
 An extremely simple Docker container used internally for demonstrating some of
 the concepts for [Apollo](https://github.com/Capgemini/Apollo).
@@ -17,4 +17,10 @@ a very simple REST endpoint, which returns the current version of itself.
 git clone https://github.com/Capgemini/apollo-example-nodejs-rest.git
 cd apollo-example-nodejs-rest
 docker-compose build
+```
+
+- Run the Docker image
+
+```
+docker-compose up -d
 ```
