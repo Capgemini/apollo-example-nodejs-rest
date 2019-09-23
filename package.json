@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Node.js example illustrating how to write a RESTful API using the node-restify library.",
   "dependencies": {
-    "restify": "3.0.3"
+    "restify": "8.1.0"
   },
   "engine": "node 0.6.x"
 }
